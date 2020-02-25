@@ -1,0 +1,9 @@
+{
+	"compilerOptions": {
+		"output": "bin/Habbo.swf"
+	},
+	"files":
+	[
+		"src/Habbo.as"
+	]
+}
